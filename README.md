@@ -17,13 +17,13 @@ You play as a lone samurai scaling vertical towers, defeating shadow enemies wit
 
 ## 🕹️ Controls
 
-| Action            | Key           |
-|-------------------|---------------|
-| Move              | Left / Right (← →) or A / D |
-| Jump              | Spacebar      |
-| Attack (Sword)    | Z             |
-| Downward Attack   | X             |
-| Pause / Menu      | Esc           |
+ Action            | Key           
+-------------------|---------------
+ Move              | Left / Right (← →) or A / D 
+ Jump              | Spacebar      
+ Attack (Sword)    | J / Right Click 
+ Downward Attack   | S             
+ Pause / Menu      | Esc           
 
 ---
 

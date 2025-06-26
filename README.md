@@ -31,4 +31,4 @@ You play as a lone samurai scaling vertical towers, defeating shadow enemies wit
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/samurai-leap.git
+   git clone https://github.com/Davidleal1122/Samurai-Leap.git
